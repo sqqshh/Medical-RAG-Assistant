@@ -32,7 +32,7 @@ Enterprise-grade Retrieval-Augmented Generation (RAG) system for answering medic
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Component | Model / Library |
 |---|---|
@@ -145,4 +145,3 @@ Always consult a qualified healthcare professional.
 
 ---
 
-YOUR_NAME
